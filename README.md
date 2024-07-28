@@ -6,4 +6,4 @@ Compile instructions: <br>
 - An existing POPUP_PAUSE.iggy from the game must be placed on the base directory. It should be from the same version that the "currently based" version listed at the bottom of this readme. <br>
 - Just run compile.bat, the .iggy file you placed will be updated in place with the code. The .bat will also try to automatically copy it to the location of a default DBXV2 installation. You may want to modify the path in compile.bat if you have your game in a different location. <br>
 
-Currently based on game version: 1.14
+Currently based on game version: 1.22.1 (SHA256: 30E6F218355A08D3ED2113D192BB6A7E2076D0343E66A21C2C5BE3EBAADDCC78)
